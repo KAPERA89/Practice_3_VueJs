@@ -4,13 +4,13 @@
 
 
 <script>
-import SignupFrom from './components/SignupFrom.vue';
+import SignupForm from './components/SignupForm.vue';
 
 
 export default {
   name: 'App',
   components: {
-      SignupFrom
+      SignupForm
   }
 }
 </script>
@@ -29,4 +29,4 @@ body{
   margin: 0;
   background: #eee;
 }
-</style>
+</style>./components/SignupForm.vue
